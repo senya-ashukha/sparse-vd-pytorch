@@ -1,4 +1,4 @@
-# Sparse variational Dropout
+# Sparse Variational Dropout
 
 Sparse Variational Dropout a Minimal Working Example, Variational Dropout Sparsifies Deep Neural Networks (https://arxiv.org/pdf/1701.05369.pdf).
 
