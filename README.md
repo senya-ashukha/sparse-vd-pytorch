@@ -6,7 +6,7 @@ Sparse Variational Dropout a Minimal Working Example, Variational Dropout Sparsi
 <p align="center">
 <img height="320" src="neurons.png"/>
 </p>
-A weight of 15x15 neurons from the first layer.
+Weights of 15x15 neurons from the first layer.
 
 Original repo https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn. 
 
