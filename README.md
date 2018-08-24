@@ -15,7 +15,7 @@ Please cite this repository if it was useful for your research
 
 ```
 @misc{Ashukha2018,
-  author = {Arsenii, Ashukha},
+  author = {Arsenii Ashukha, Andrew Atanow},
   title = {Sparse variational Dropout, a Minimal Working Example},
   year = {2018},
   publisher = {GitHub},
