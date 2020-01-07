@@ -11,15 +11,13 @@ The sample of neuron weights of shape 10x10 from the first layer.
 Original repo https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn. 
 
 # Citation
-Please cite this repository if it was useful for your research
 
+If you found this code useful please the original paper
 ```
-@misc{Ashukha2018,
-  author = {Arsenii Ashukha, Andrew Atanow},
-  title = {Sparse variational Dropout, a Minimal Working Example},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ars-ashuha/sparse-vd-pytorch}},
+@InProceedings{molchanov2017variational,
+  title={Variational Dropout Sparsifies Deep Neural Networks},
+  author={Dmitry Molchanov and Arsenii Ashukha and Dmitry Vetrov},
+  booktitle={Proceedings of the 34th International Conference on Machine Learning},
+  year={2017}
 }
-``` 
+```
